@@ -1,0 +1,9 @@
+@import "css/kohinoor-zerone.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply bg-gray-300 text-black overscroll-none overflow-hidden;
+}
